@@ -1,6 +1,8 @@
 ComfyUI
 =======
 The most powerful and modular stable diffusion GUI and backend.
+
+This is an internal fork of https://github.com/comfyanonymous/ComfyUI, for collaboration with external partners.
 -----------
 ![ComfyUI Screenshot](comfyui_screenshot.png)
 
